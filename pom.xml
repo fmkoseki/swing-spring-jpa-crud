@@ -4,7 +4,7 @@
 
 	<groupId>br.com.yaw.ssjpac</groupId>
 	<artifactId>swing-spring-jpa-crud</artifactId>
-	<version>0.0.8</version>
+	<version>0.0.9-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 <distributionManagement>
@@ -37,7 +37,7 @@
         <connection>scm:git:git@github.com:fmkoseki/swing-spring-jpa-crud.git</connection>
         <url>scm:git:git@github.com:fmkoseki/swing-spring-jpa-crud.git</url>
         <developerConnection>scm:git:git@github.com:fmkoseki/swing-spring-jpa-crud.git</developerConnection>
-      <tag>swing-spring-jpa-crud-0.0.8</tag>
+      <tag>HEAD</tag>
   </scm>
 
     
