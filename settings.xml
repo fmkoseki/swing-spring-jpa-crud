@@ -37,13 +37,13 @@
   <servers>
     <server>
         <id>snapshots</id>
-        <username>admin</username>
-        <password>admin</password> 
+        <username>deployment</username>
+        <password>deployment123</password> 
     </server>
         <server>
         <id>releases</id>
-        <username>admin</username>
-        <password>admin</password> 
+        <username>deployment</username>
+        <password>deployment123</password> 
     </server>
    </servers>
 </settings>
